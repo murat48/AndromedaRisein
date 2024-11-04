@@ -72,8 +72,9 @@ Next.js
 
   2- Install Dependencies:
    
-   cd AndromedaRisein
-   npm install
+    cd AndromedaRisein
+   
+    npm install
 			
   3-Run the Development Server:
 		
