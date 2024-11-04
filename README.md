@@ -58,6 +58,7 @@ Deploy the Buy Affordable dApp on the Andromeda Protocol, ensuring scalability a
 After years of exploring the world of technology and blockchain, I embarked on a journey to create Buy Affordable, a decentralized platform for buying, selling, and exchanging properties, vehicles, and tokens. Driven by a passion for innovation and simplifying complex transactions, I aimed to empower users with transparency and security. Through Buy Affordable, I envisioned a future where commerce is accessible to everyone, free from traditional barriers. This project reflects my commitment to harnessing technology for positive change and creating a community where trust and efficiency thrive in the digital marketplace.
 
  ## Installation & Setup
+	
 Prerequisites:
 Node.js
 Andromeda SDK
@@ -66,22 +67,22 @@ Next.js
 
 ## Steps:
   1- Clone the Repository:
-     bash
+     
      git clone https://github.com/murat48/AndromedaRisein.git
 
   2- Install Dependencies:
-   bash
+   
    cd AndromedaRisein
    npm install
+			
   3-Run the Development Server:
-  
-   bash
-   npm start
+		
+    npm start
    
   4-Connect to Andromeda Network: Update config.js with the network and contract details.
 
   
-   This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
