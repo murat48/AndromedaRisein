@@ -8,6 +8,8 @@ Buy Affordable is an innovative dApp built on the Andromeda Protocol, aimed at s
 ## Vision:
 The vision for Buy Affordable is to revolutionize the process of high-value transactions by creating a secure, transparent, and user-centric marketplace for hotel and car sales, integrated with a token exchange platform. Built on the Andromeda Protocol, Buy Affordable seeks to empower users with seamless, decentralized operations, eliminating intermediaries and reducing transaction costs. The project aspires to make property and vehicle trading more accessible and efficient while fostering trust and innovation in the digital economy.
 
+## Embeddable Links
+- **Demo Link**: [Click here for demo](https://embeddables.testnet.andromedaprotocol.io/galileo-4/mrt-new-collection)
 
 ## Software Development Plan:
 1.
